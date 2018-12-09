@@ -2,10 +2,15 @@
 
 A program to mine CPU coins when a computer is deemed idle.
 
+This may seem a little excessive to determine when a user is idle but this program (IMO) is the only TRUE idle detection software not just for one but multiple logged in users, RDP logins, Terminal logins and also lets you define a type of idle detection state (see config.ini file)
+
+More info to follow!
+
 https://KramWell.com
 
 --
-Install Instructions.
+
+# Install Instructions.
 
 Download AHK program and compile these scripts to exe (Binaries will be available soon).
 
@@ -17,13 +22,15 @@ Execute idleMiner.exe as Administrator (or run from Task Scheduler).
 
 --
 
-Todo
+# Todo
 
 Clean up the code a little and test a few things.. also better document what this actually does and how.
 
 --
 
-Sample log file from idleOutput.log (changed default idleTime from 21 minutes to 25 seconds to test)
+# Sample log file 
+
+from idleOutput.log (changed default idleTime from 21 minutes to 25 seconds to test)
 
 	[09/12/18 21:15:59] Starting App - idleMiner.exe
 	[09/12/18 21:15:59] Task idleStateTask RAN OK
