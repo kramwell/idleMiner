@@ -6,11 +6,13 @@ This may seem a little excessive to determine when a user is idle but this progr
 
 More info to follow!
 
-https://KramWell.com
+Thanks
+
+Mark - https://CPUminers.club
 
 --
 
-# Install Instructions.
+# Install Instructions
 
 Download AHK program and compile these scripts to exe (Binaries will be available soon).
 
